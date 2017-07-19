@@ -1,5 +1,7 @@
 # minecraft-shixi-school
+---
 # 暂未开放
+---
 上海市西初级中学 在minecraft中
 ## Where?
 服务器：
