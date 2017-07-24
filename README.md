@@ -1,4 +1,5 @@
 # minecraft-shixi-school
+Server IP : 139.196.19.61
 # 2017年8月起每天上午10:20至11:30，下午18:30至20:30开放
 上海市西初级中学 在minecraft中
 ## Where?
