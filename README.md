@@ -1,7 +1,11 @@
 # Minecraft市西初级中学计划II
 #### Minecraft市西中学是一个用Minecraft建造市西初级中学以及市西中学所有建筑的计划
 ### 现在公布的存档有：2017年8月8日的市西中学，在此之后更多变更请访问服务器（见下文）
-##市西初级计划II：
+## 加入服务器所需的模组（官网下载）
+家具模组： https://mrcrayfish.com/mods?id=cfm
+Custom NPC mod：http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1278956-custom-npcs
+注释：customnpc还有个附属mod（1.11后加的）
+## 市西初级计划II：
 本计划目标是拍摄影片
 ### 下载视频观看：
 ### 下载视频后可以观赏市西初级中学（4个视频大小共约20Mb）
