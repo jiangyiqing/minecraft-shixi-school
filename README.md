@@ -3,6 +3,7 @@
 ### 现在公布的存档有：2017年8月8日的市西中学，在此之后更多变更请访问服务器（见下文）
 ## 加入服务器所需的模组（官网下载）
 HMCL启动器http://www.mcbbs.net/thread-142335-1-1.html
+http://pan.baidu.com/s/1cEcBLW
 家具模组： https://mrcrayfish.com/mods?id=cfm
 Custom NPC mod：http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1278956-custom-npcs
 注释：customnpc还有个附属mod（1.11后加的）
