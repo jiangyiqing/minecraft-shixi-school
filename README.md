@@ -3,11 +3,17 @@
 ### 现在公布的存档有：2017年8月8日的市西中学，在此之后更多变更请访问服务器（见下文）
 ## 加入服务器所需的模组（官网下载）
 HMCL启动器http://www.mcbbs.net/thread-142335-1-1.html
+
 http://pan.baidu.com/s/1cEcBLW
+
 门：https://minecraft.curseforge.com/projects/malisisdoors/files
+
 门前置：https://minecraft.curseforge.com/projects/malisiscore/files
+
 不同物品：http://www.kodevelopment.nl/minecraft/varied-commodities/downloads
+
 家具：https://mrcrayfish.com/mods?id=cfm
+
 CustomNPC：http://www.kodevelopment.nl/minecraft/customnpcs/downloads/
 ## 市西初级计划II：
 本计划目标是拍摄影片
