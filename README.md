@@ -4,9 +4,11 @@
 ## 加入服务器所需的模组（官网下载）
 HMCL启动器http://www.mcbbs.net/thread-142335-1-1.html
 http://pan.baidu.com/s/1cEcBLW
-家具模组： https://mrcrayfish.com/mods?id=cfm
-Custom NPC mod：http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1278956-custom-npcs
-注释：customnpc还有个附属mod（1.11后加的）
+门：https://minecraft.curseforge.com/projects/malisisdoors/files
+门前置：https://minecraft.curseforge.com/projects/malisiscore/files
+不同物品：http://www.kodevelopment.nl/minecraft/varied-commodities/downloads
+家具：https://mrcrayfish.com/mods?id=cfm
+CustomNPC：http://www.kodevelopment.nl/minecraft/customnpcs/downloads/
 ## 市西初级计划II：
 本计划目标是拍摄影片
 ### 下载视频观看：
