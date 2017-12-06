@@ -4,8 +4,7 @@
 ## 加入服务器所需的模组（官网下载）
 HMCL启动器http://www.mcbbs.net/thread-142335-1-1.html
 
-http://pan.baidu.com/s/1cEcBLW
-
+Dropbox： https://www.dropbox.com/sh/ff94kldq0xbzrqr/AAB4iwoCPX-MiYCaYsUfuGqVa?dl=0
 门：https://minecraft.curseforge.com/projects/malisisdoors/files
 
 门前置：https://minecraft.curseforge.com/projects/malisiscore/files
