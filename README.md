@@ -10,6 +10,17 @@
 
 #### 以下模组在安装玩游戏和 Forge 后 拖入 .minecraft/mods 或 minecraft/mods 中
 
+Zip整合：
+
+百度盘：https://pan.baidu.com/s/1hsgYBq8 密码4f5h
+
+Mega ： https://mega.nz/#!ZKJFUDJb 密码!TumqWrK2Lroa8jJYLLhzkizyjYbLC5IajIiVR6sUfcs
+
+### 材质（非原创，暂时借用）
+
+SummerFields ：https://pan.baidu.com/s/1bpxxKNd
+
+
 门：https://minecraft.curseforge.com/projects/malisisdoors/files
 
 门前置：https://minecraft.curseforge.com/projects/malisiscore/files
