@@ -1,0 +1,707 @@
+{
+	"format": 26,
+	"created_in": "1.1.2",
+	"templates": [
+		{
+			"id": "51DBK2Y504G994H7",
+			"type": "cube",
+			"name": "",
+			"shape": {
+				"tex": "null",
+				"tex_mapped": false,
+				"tex_hoffset": 0,
+				"tex_voffset": 0,
+				"tex_hrepeat": 1,
+				"tex_vrepeat": 1,
+				"tex_hmirror": false,
+				"tex_vmirror": false,
+				"closed": true,
+				"invert": false,
+				"detail": 32,
+				"face_camera": false
+			}
+		}
+	],
+	"timelines": [
+		{
+			"id": "P138O5C9236ME7EE",
+			"type": "spotlight",
+			"name": "",
+			"temp": "null",
+			"color": "#00801B",
+			"hide": false,
+			"lock": false,
+			"depth": 0,
+			"default_values": {
+				"POS_X": 36.88032,
+				"POS_Y": 0.79864,
+				"POS_Z": 15.41975
+			},
+			"keyframes": {
+				"0": {
+					"POS_X": 52,
+					"POS_Y": 0.4,
+					"POS_Z": 41.5,
+					"ROT_X": 22.5,
+					"LIGHT_RANGE": 3000,
+					"LIGHT_FADE_SIZE": 0.16,
+					"LIGHT_SPOT_RADIUS": 97,
+					"LIGHT_SPOT_SHARPNESS": 1.01
+				}
+			},
+			"parent": "18Q60RZ4ZC7E02OB",
+			"parent_tree_index": 8,
+			"lock_bend": true,
+			"tree_extend": false,
+			"inherit": {
+				"position": true,
+				"rotation": true,
+				"scale": true,
+				"alpha": false,
+				"color": false,
+				"texture": false,
+				"visibility": true,
+				"bend": false,
+				"rot_point": false
+			},
+			"scale_resize": true,
+			"backfaces": false,
+			"texture_blur": false,
+			"texture_filtering": false,
+			"shadows": true,
+			"ssao": true,
+			"fog": true
+		},
+		{
+			"id": "9J4079145G9FW993",
+			"type": "spotlight",
+			"name": "",
+			"temp": "null",
+			"color": "#00801B",
+			"hide": false,
+			"lock": false,
+			"depth": 0,
+			"default_values": {
+				"POS_X": 36.88032,
+				"POS_Y": 0.79864,
+				"POS_Z": 15.41975
+			},
+			"keyframes": {
+				"0": {
+					"POS_X": 42,
+					"POS_Y": 0.4,
+					"POS_Z": 41.5,
+					"ROT_X": 22.5,
+					"LIGHT_RANGE": 3000,
+					"LIGHT_FADE_SIZE": 0.2,
+					"LIGHT_SPOT_RADIUS": 94,
+					"LIGHT_SPOT_SHARPNESS": 1
+				}
+			},
+			"parent": "18Q60RZ4ZC7E02OB",
+			"parent_tree_index": 9,
+			"lock_bend": true,
+			"tree_extend": false,
+			"inherit": {
+				"position": true,
+				"rotation": true,
+				"scale": true,
+				"alpha": false,
+				"color": false,
+				"texture": false,
+				"visibility": true,
+				"bend": false,
+				"rot_point": false
+			},
+			"scale_resize": true,
+			"backfaces": false,
+			"texture_blur": false,
+			"texture_filtering": false,
+			"shadows": true,
+			"ssao": true,
+			"fog": true
+		},
+		{
+			"id": "6PJ3R0246H4R26IU",
+			"type": "spotlight",
+			"name": "",
+			"temp": "null",
+			"color": "#00801B",
+			"hide": false,
+			"lock": false,
+			"depth": 0,
+			"default_values": {
+				"POS_X": 36.88032,
+				"POS_Y": 0.79864,
+				"POS_Z": 15.41975
+			},
+			"keyframes": {
+				"0": {
+					"POS_X": 62,
+					"POS_Y": 0.4,
+					"POS_Z": 41.5,
+					"ROT_X": 22.5,
+					"LIGHT_RANGE": 3000,
+					"LIGHT_FADE_SIZE": 0.17,
+					"LIGHT_SPOT_RADIUS": 94,
+					"LIGHT_SPOT_SHARPNESS": 1
+				}
+			},
+			"parent": "18Q60RZ4ZC7E02OB",
+			"parent_tree_index": 7,
+			"lock_bend": true,
+			"tree_extend": false,
+			"inherit": {
+				"position": true,
+				"rotation": true,
+				"scale": true,
+				"alpha": false,
+				"color": false,
+				"texture": false,
+				"visibility": true,
+				"bend": false,
+				"rot_point": false
+			},
+			"scale_resize": true,
+			"backfaces": false,
+			"texture_blur": false,
+			"texture_filtering": false,
+			"shadows": true,
+			"ssao": true,
+			"fog": true
+		},
+		{
+			"id": "5T4PLIK13S59SW5Z",
+			"type": "cube",
+			"name": "",
+			"temp": "51DBK2Y504G994H7",
+			"color": "#1B0080",
+			"hide": false,
+			"lock": false,
+			"depth": 0,
+			"default_values": {
+				"POS_X": 43.30952,
+				"POS_Y": -5.76022
+			},
+			"keyframes": {
+				"0": {
+					"POS_X": 42,
+					"POS_Y": 0,
+					"POS_Z": 42,
+					"SCA_X": 0.01,
+					"SCA_Y": 0.01,
+					"RGB_MUL": "#000000",
+					"MIX_COLOR": "#FFFFFF",
+					"MIX_PERCENT": 0.5,
+					"BRIGHTNESS": 0.16
+				}
+			},
+			"parent": "18Q60RZ4ZC7E02OB",
+			"parent_tree_index": 10,
+			"lock_bend": true,
+			"tree_extend": false,
+			"inherit": {
+				"position": true,
+				"rotation": true,
+				"scale": true,
+				"alpha": false,
+				"color": false,
+				"texture": false,
+				"visibility": true,
+				"bend": false,
+				"rot_point": false
+			},
+			"scale_resize": true,
+			"rot_point_custom": false,
+			"rot_point": [ 0, -8, 0 ],
+			"backfaces": false,
+			"texture_blur": false,
+			"texture_filtering": false,
+			"shadows": true,
+			"ssao": true,
+			"fog": true,
+			"wind": false,
+			"wind_terrain": true
+		},
+		{
+			"id": "24XTBOX22E010437",
+			"type": "cube",
+			"name": "",
+			"temp": "51DBK2Y504G994H7",
+			"color": "#1B0080",
+			"hide": false,
+			"lock": false,
+			"depth": 0,
+			"default_values": {
+				"POS_X": 43.30952,
+				"POS_Y": -5.76022
+			},
+			"keyframes": {
+				"0": {
+					"POS_X": 62,
+					"POS_Y": 0,
+					"POS_Z": 42,
+					"SCA_X": 0.01,
+					"SCA_Y": 0.01,
+					"RGB_MUL": "#000000",
+					"MIX_COLOR": "#FFFFFF",
+					"MIX_PERCENT": 0.5,
+					"BRIGHTNESS": 0.16
+				}
+			},
+			"parent": "18Q60RZ4ZC7E02OB",
+			"parent_tree_index": 11,
+			"lock_bend": true,
+			"tree_extend": false,
+			"inherit": {
+				"position": true,
+				"rotation": true,
+				"scale": true,
+				"alpha": false,
+				"color": false,
+				"texture": false,
+				"visibility": true,
+				"bend": false,
+				"rot_point": false
+			},
+			"scale_resize": true,
+			"rot_point_custom": false,
+			"rot_point": [ 0, -8, 0 ],
+			"backfaces": false,
+			"texture_blur": false,
+			"texture_filtering": false,
+			"shadows": true,
+			"ssao": true,
+			"fog": true,
+			"wind": false,
+			"wind_terrain": true
+		},
+		{
+			"id": "W14SZ04KC3RB1306",
+			"type": "cube",
+			"name": "",
+			"temp": "51DBK2Y504G994H7",
+			"color": "#1B0080",
+			"hide": false,
+			"lock": false,
+			"depth": 0,
+			"default_values": {
+				"POS_X": 43.30952,
+				"POS_Y": -5.76022
+			},
+			"keyframes": {
+				"0": {
+					"POS_X": 52.08,
+					"POS_Y": -0.4,
+					"POS_Z": 40.5,
+					"SCA_X": 1.5,
+					"SCA_Y": 0.01,
+					"SCA_Z": 0.1,
+					"RGB_MUL": "#707070",
+					"MIX_COLOR": "#FFFFFF",
+					"MIX_PERCENT": 0.74,
+					"BRIGHTNESS": 0.49
+				}
+			},
+			"parent": "18Q60RZ4ZC7E02OB",
+			"parent_tree_index": 6,
+			"lock_bend": true,
+			"tree_extend": false,
+			"inherit": {
+				"position": true,
+				"rotation": true,
+				"scale": true,
+				"alpha": false,
+				"color": false,
+				"texture": false,
+				"visibility": true,
+				"bend": false,
+				"rot_point": false
+			},
+			"scale_resize": true,
+			"rot_point_custom": false,
+			"rot_point": [ 0, -8, 0 ],
+			"backfaces": false,
+			"texture_blur": false,
+			"texture_filtering": false,
+			"shadows": true,
+			"ssao": true,
+			"fog": true,
+			"wind": false,
+			"wind_terrain": true
+		},
+		{
+			"id": "73XI0C84NZ441B13",
+			"type": "cube",
+			"name": "",
+			"temp": "51DBK2Y504G994H7",
+			"color": "#1B0080",
+			"hide": false,
+			"lock": false,
+			"depth": 0,
+			"default_values": {
+				"POS_X": 43.30952,
+				"POS_Y": -5.76022
+			},
+			"keyframes": {
+				"0": {
+					"POS_X": 52.08,
+					"POS_Y": 0,
+					"POS_Z": 41.74,
+					"SCA_X": 1.5,
+					"SCA_Y": 0.12,
+					"SCA_Z": 0.01,
+					"RGB_MUL": "#707070",
+					"MIX_COLOR": "#FFFFFF",
+					"MIX_PERCENT": 1,
+					"BRIGHTNESS": 0.54
+				}
+			},
+			"parent": "18Q60RZ4ZC7E02OB",
+			"parent_tree_index": 5,
+			"lock_bend": true,
+			"tree_extend": false,
+			"inherit": {
+				"position": true,
+				"rotation": true,
+				"scale": true,
+				"alpha": false,
+				"color": false,
+				"texture": false,
+				"visibility": true,
+				"bend": false,
+				"rot_point": false
+			},
+			"scale_resize": true,
+			"rot_point_custom": false,
+			"rot_point": [ 0, -8, 0 ],
+			"backfaces": false,
+			"texture_blur": false,
+			"texture_filtering": false,
+			"shadows": true,
+			"ssao": true,
+			"fog": true,
+			"wind": false,
+			"wind_terrain": true
+		},
+		{
+			"id": "B7YPF49AML41MS7E",
+			"type": "cube",
+			"name": "",
+			"temp": "51DBK2Y504G994H7",
+			"color": "#1B0080",
+			"hide": false,
+			"lock": false,
+			"depth": 0,
+			"default_values": {
+				"POS_X": 43.30952,
+				"POS_Y": -5.76022
+			},
+			"keyframes": {
+				"0": {
+					"POS_X": 41.6,
+					"POS_Y": 0,
+					"POS_Z": 41.6,
+					"SCA_X": 0.2,
+					"SCA_Y": 0.12,
+					"SCA_Z": 0.03,
+					"RGB_MUL": "#707070",
+					"MIX_COLOR": "#FFFFFF",
+					"MIX_PERCENT": 1,
+					"BRIGHTNESS": 0.09
+				}
+			},
+			"parent": "18Q60RZ4ZC7E02OB",
+			"parent_tree_index": 4,
+			"lock_bend": true,
+			"tree_extend": false,
+			"inherit": {
+				"position": true,
+				"rotation": true,
+				"scale": true,
+				"alpha": false,
+				"color": false,
+				"texture": false,
+				"visibility": true,
+				"bend": false,
+				"rot_point": false
+			},
+			"scale_resize": true,
+			"rot_point_custom": false,
+			"rot_point": [ 0, -8, 0 ],
+			"backfaces": false,
+			"texture_blur": false,
+			"texture_filtering": false,
+			"shadows": true,
+			"ssao": true,
+			"fog": true,
+			"wind": false,
+			"wind_terrain": true
+		},
+		{
+			"id": "C7FP596WO5D01W76",
+			"type": "cube",
+			"name": "",
+			"temp": "51DBK2Y504G994H7",
+			"color": "#1B0080",
+			"hide": false,
+			"lock": false,
+			"depth": 0,
+			"default_values": {
+				"POS_X": 43.30952,
+				"POS_Y": -5.76022
+			},
+			"keyframes": {
+				"0": {
+					"POS_X": 62.4,
+					"POS_Y": 0,
+					"POS_Z": 41.6,
+					"SCA_X": 0.2,
+					"SCA_Y": 0.12,
+					"SCA_Z": 0.03,
+					"RGB_MUL": "#707070",
+					"MIX_COLOR": "#FFFFFF",
+					"MIX_PERCENT": 1,
+					"BRIGHTNESS": 0.1
+				}
+			},
+			"parent": "18Q60RZ4ZC7E02OB",
+			"parent_tree_index": 3,
+			"lock_bend": true,
+			"tree_extend": false,
+			"inherit": {
+				"position": true,
+				"rotation": true,
+				"scale": true,
+				"alpha": false,
+				"color": false,
+				"texture": false,
+				"visibility": true,
+				"bend": false,
+				"rot_point": false
+			},
+			"scale_resize": true,
+			"rot_point_custom": false,
+			"rot_point": [ 0, -8, 0 ],
+			"backfaces": false,
+			"texture_blur": false,
+			"texture_filtering": false,
+			"shadows": true,
+			"ssao": true,
+			"fog": true,
+			"wind": false,
+			"wind_terrain": true
+		},
+		{
+			"id": "J5OL14113NANK82X",
+			"type": "cube",
+			"name": "",
+			"temp": "51DBK2Y504G994H7",
+			"color": "#1B0080",
+			"hide": false,
+			"lock": false,
+			"depth": 0,
+			"default_values": {
+				"POS_X": 43.30952,
+				"POS_Y": -5.76022
+			},
+			"keyframes": {
+				"0": {
+					"POS_X": 52.08,
+					"POS_Y": -0.65,
+					"POS_Z": 41.07,
+					"SCA_X": 1.5,
+					"SCA_Y": 0.02,
+					"SCA_Z": 0.01,
+					"RGB_MUL": "#707070",
+					"MIX_COLOR": "#FFFFFF",
+					"MIX_PERCENT": 1,
+					"BRIGHTNESS": 0.5
+				}
+			},
+			"parent": "18Q60RZ4ZC7E02OB",
+			"parent_tree_index": 2,
+			"lock_bend": true,
+			"tree_extend": false,
+			"inherit": {
+				"position": true,
+				"rotation": true,
+				"scale": true,
+				"alpha": false,
+				"color": false,
+				"texture": false,
+				"visibility": true,
+				"bend": false,
+				"rot_point": false
+			},
+			"scale_resize": true,
+			"rot_point_custom": false,
+			"rot_point": [ 0, -8, 0 ],
+			"backfaces": false,
+			"texture_blur": false,
+			"texture_filtering": false,
+			"shadows": true,
+			"ssao": true,
+			"fog": true,
+			"wind": false,
+			"wind_terrain": true
+		},
+		{
+			"id": "XWL43TI454IN9G93",
+			"type": "cube",
+			"name": "",
+			"temp": "51DBK2Y504G994H7",
+			"color": "#1B0080",
+			"hide": false,
+			"lock": false,
+			"depth": 0,
+			"default_values": {
+				"POS_X": 43.30952,
+				"POS_Y": -5.76022
+			},
+			"keyframes": {
+				"0": {
+					"POS_X": 40.21,
+					"POS_Y": 0.2,
+					"POS_Z": 40.63,
+					"SCA_X": 0.02,
+					"SCA_Y": 0.06,
+					"SCA_Z": 0.06,
+					"RGB_MUL": "#707070",
+					"MIX_COLOR": "#FFFFFF",
+					"MIX_PERCENT": 1,
+					"BRIGHTNESS": 0.12
+				}
+			},
+			"parent": "18Q60RZ4ZC7E02OB",
+			"parent_tree_index": 1,
+			"lock_bend": true,
+			"tree_extend": false,
+			"inherit": {
+				"position": true,
+				"rotation": true,
+				"scale": true,
+				"alpha": false,
+				"color": false,
+				"texture": false,
+				"visibility": true,
+				"bend": false,
+				"rot_point": false
+			},
+			"scale_resize": true,
+			"rot_point_custom": false,
+			"rot_point": [ 0, -8, 0 ],
+			"backfaces": false,
+			"texture_blur": false,
+			"texture_filtering": false,
+			"shadows": true,
+			"ssao": true,
+			"fog": true,
+			"wind": false,
+			"wind_terrain": true
+		},
+		{
+			"id": "V44274RUK3964OY6",
+			"type": "cube",
+			"name": "",
+			"temp": "51DBK2Y504G994H7",
+			"color": "#1B0080",
+			"hide": false,
+			"lock": false,
+			"depth": 0,
+			"default_values": {
+				"POS_X": 43.30952,
+				"POS_Y": -5.76022
+			},
+			"keyframes": {
+				"0": {
+					"POS_X": 64,
+					"POS_Y": 0.2,
+					"POS_Z": 40.63,
+					"SCA_X": 0.02,
+					"SCA_Y": 0.06,
+					"SCA_Z": 0.06,
+					"RGB_MUL": "#707070",
+					"MIX_COLOR": "#FFFFFF",
+					"MIX_PERCENT": 1,
+					"BRIGHTNESS": 0.11
+				}
+			},
+			"parent": "18Q60RZ4ZC7E02OB",
+			"parent_tree_index": 0,
+			"lock_bend": true,
+			"tree_extend": false,
+			"inherit": {
+				"position": true,
+				"rotation": true,
+				"scale": true,
+				"alpha": false,
+				"color": false,
+				"texture": false,
+				"visibility": true,
+				"bend": false,
+				"rot_point": false
+			},
+			"scale_resize": true,
+			"rot_point_custom": false,
+			"rot_point": [ 0, -8, 0 ],
+			"backfaces": false,
+			"texture_blur": false,
+			"texture_filtering": false,
+			"shadows": true,
+			"ssao": true,
+			"fog": true,
+			"wind": false,
+			"wind_terrain": true
+		},
+		{
+			"id": "18Q60RZ4ZC7E02OB",
+			"type": "folder",
+			"name": "FrLig",
+			"temp": "null",
+			"color": "#00802D",
+			"hide": false,
+			"lock": false,
+			"depth": 0,
+			"default_values": {
+			},
+			"keyframes": {
+				"0": {
+					"POS_X": 93.05,
+					"POS_Y": 48.85,
+					"POS_Z": -6.25,
+					"ROT_Z": 90,
+					"SCA_X": 1.5,
+					"SCA_Y": 1.5,
+					"SCA_Z": 1.5
+				}
+			},
+			"parent": "root",
+			"parent_tree_index": 8,
+			"lock_bend": true,
+			"tree_extend": true,
+			"inherit": {
+				"position": true,
+				"rotation": true,
+				"scale": true,
+				"alpha": false,
+				"color": false,
+				"texture": false,
+				"visibility": true,
+				"bend": false,
+				"rot_point": false
+			},
+			"scale_resize": true,
+			"rot_point_custom": false,
+			"rot_point": [ 0, 0, 0 ],
+			"backfaces": false,
+			"texture_blur": false,
+			"texture_filtering": false,
+			"shadows": true,
+			"ssao": true,
+			"fog": true
+		}
+	],
+	"resources": [
+	]
+}

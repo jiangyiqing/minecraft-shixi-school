@@ -1,0 +1,82 @@
+{
+	"format": 26,
+	"created_in": "1.1.2",
+	"templates": [
+		{
+			"id": "HFC5O3377J32V9DL",
+			"type": "scenery",
+			"name": "",
+			"scenery": "XM8V98194L55TJ0A",
+			"block": {
+				"tex": "RL3WOTQCFL9EQPK8",
+				"repeat_enable": false,
+				"repeat": [ 1, 1, 1 ]
+			}
+		}
+	],
+	"timelines": [
+		{
+			"id": "SMA5832782TU334O",
+			"type": "scenery",
+			"name": "",
+			"temp": "HFC5O3377J32V9DL",
+			"color": "#008054",
+			"hide": false,
+			"lock": false,
+			"depth": 0,
+			"parts": [
+			],
+			"default_values": {
+				"POS_X": 27.52816,
+				"POS_Y": 25.51517,
+				"POS_Z": 33.24278
+			},
+			"keyframes": {
+				"0": {
+					"POS_X": 0,
+					"POS_Y": 0,
+					"POS_Z": -16
+				}
+			},
+			"parent": "IDNH3VS53R8WD392",
+			"parent_tree_index": 48,
+			"lock_bend": true,
+			"tree_extend": false,
+			"inherit": {
+				"position": true,
+				"rotation": true,
+				"scale": true,
+				"alpha": false,
+				"color": false,
+				"texture": false,
+				"visibility": true,
+				"bend": false,
+				"rot_point": false
+			},
+			"scale_resize": true,
+			"rot_point_custom": false,
+			"rot_point": [ 168, 0, 152 ],
+			"backfaces": false,
+			"texture_blur": false,
+			"texture_filtering": true,
+			"shadows": true,
+			"ssao": true,
+			"fog": true,
+			"wind": false,
+			"wind_terrain": true
+		}
+	],
+	"resources": [
+		{
+			"id": "XM8V98194L55TJ0A",
+			"type": "schematic",
+			"filename": "Piece of NaviClassroom 3.schematic",
+			"scenery_tl_add": false
+		},
+		{
+			"id": "RL3WOTQCFL9EQPK8",
+			"type": "pack",
+			"filename": "SHIXISAB1.1.zip"
+		}
+	]
+}
