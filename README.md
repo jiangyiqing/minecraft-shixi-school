@@ -1,4 +1,7 @@
 # Minecraft市西初级中学计划II
+## 视频：
+http://v.youku.com/v_show/id_XMzQwNjI1ODE4MA==.html?spm=a2h3j.8428770.3416059.1 （给纲版）
+http://v.youku.com/v_show/id_XMzQwNjE3Mjk2MA==.html?x&sharefrom=android&sharekey=b6656d637c449300e8884332537a11f96 （Luigi版）
 游戏（进入服务器的必须资源））
 Zip整合：
 
